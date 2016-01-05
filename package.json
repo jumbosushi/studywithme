@@ -1,0 +1,22 @@
+{
+  "name": "studywithme",
+  "version": "1.0.0",
+  "description": "Makes forming study group easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumbosushi/studywithme.git"
+  },
+  "author": "Atsushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumbosushi/studywithme/issues"
+  },
+  "homepage": "https://github.com/jumbosushi/studywithme#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

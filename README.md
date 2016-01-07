@@ -10,3 +10,6 @@ Goals:
 - Facebook login
 - Store registered member's info
 - Match People
+
+1/6/16 Update:
+No idea what is going on with exprress. Will try nodeschool to shed some light on me
